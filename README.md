@@ -1,2 +1,2 @@
 # Python-OpenCv
-I am on my way to learning OpenCv
+I am on my way to learn OpenCv
